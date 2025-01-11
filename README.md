@@ -31,6 +31,7 @@ Run python manage.py runserver to launch the app.
 Open http://localhost:8000 to view it in your browser.
 
 ### **Screenshots:**
+![Uploading image.png…]()
 
 
 ### **Learn More:**
