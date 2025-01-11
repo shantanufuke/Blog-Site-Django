@@ -1,4 +1,4 @@
-# ** Blog Site Project**
+# **Blog Site Project**
 
 ### **Tech Stack:**
 - **Python**: Backend development using Django, Django REST Framework
