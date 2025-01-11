@@ -13,13 +13,6 @@ Hey everyone! 🎉 I’m thrilled to share my Blog Platform project! This projec
 The goal was to build a simple and functional blogging site where users can post blogs and view all blogs in a clean and responsive interface.
 
 ### **Key Features:**
-- **User Authentication**: Secure registration, login, and user session management.
-- **Real-Time Updates**: Posts, comments, and likes update instantly without page reloads using AJAX.
-- **Friend Requests and Notifications**: Send friend requests, accept/reject them, and get notified in real-time.
-- **Real-Time Chat**: WebSockets enable instant messaging between users.
-- **Responsive Design**: Fully compatible with desktop and mobile devices.
-
-Key Features
 - **User Authentication**: Secure registration, login, and logout.
 - **User-specific blog post management**: Blog Post Creation and Management Users can create, edit, and delete their own blogs.
 - **Responsive Design**: Optimized for desktop and mobile viewing using Bootstrap.
